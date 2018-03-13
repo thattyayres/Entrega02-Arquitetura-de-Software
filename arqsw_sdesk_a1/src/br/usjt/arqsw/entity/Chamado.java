@@ -5,6 +5,7 @@ import java.util.Date;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.NotNull;
+
 /**
  * 
  * @author Tatiane Ayres 816118367

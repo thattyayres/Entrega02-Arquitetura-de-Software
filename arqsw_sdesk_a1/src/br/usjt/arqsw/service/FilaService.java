@@ -6,6 +6,7 @@ import java.util.ArrayList;
 
 import br.usjt.arqsw.dao.FilaDAO;
 import br.usjt.arqsw.entity.Fila;
+
 /**
  * 
  * @author Tatiane Ayres 816118367
