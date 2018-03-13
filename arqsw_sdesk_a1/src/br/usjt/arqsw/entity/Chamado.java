@@ -2,6 +2,7 @@ package br.usjt.arqsw.entity;
 
 import java.util.Date;
 
+
 import javax.validation.constraints.Max;
 import javax.validation.constraints.NotNull;
 /**
@@ -9,6 +10,7 @@ import javax.validation.constraints.NotNull;
  * @author Tatiane Ayres 816118367
  *
  */
+
 public class Chamado {
 	@NotNull
 	@Max(value = 11)

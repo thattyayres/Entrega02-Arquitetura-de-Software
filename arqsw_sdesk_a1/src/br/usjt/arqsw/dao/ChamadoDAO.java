@@ -17,6 +17,7 @@ import br.usjt.arqsw.entity.Fila;
  *
  */
 
+
 public class ChamadoDAO {
 	public ArrayList<Chamado> listarChamado(Fila fila) throws IOException {
 		String query = "select * from chamado Where ID_FILA = ?";

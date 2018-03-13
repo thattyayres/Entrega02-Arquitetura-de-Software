@@ -2,6 +2,7 @@ package br.usjt.arqsw.entity;
 
 import java.io.Serializable;
 
+
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
@@ -10,6 +11,7 @@ import javax.validation.constraints.Size;
  * @author Tatiane Ayres 816118367
  *
  */
+
 public class Fila implements Serializable{
 	
 	private static final long serialVersionUID = 1L;
